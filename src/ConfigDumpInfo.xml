@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования" id="c9886b6e-9114-4718-956f-cb4d5317104b" configVersion="62a1dff734e1b34b828909cab6cc6da400000000">
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.Организация" id="0d693f75-1619-4711-8878-a8c4e9a32c3a"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.СерийныйНомер" id="0f1fbbc0-c44c-4ef6-80ba-2c3cb3dfa8a7"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ФИО" id="127b6400-a0a8-4dfb-a507-a5ab9b8a2624"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ДанныеСертификата" id="1bd27ee5-329a-4a01-b32f-0120facab1c4"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.должность" id="2e7916d4-de99-45bf-a940-e4a7a83a384b"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ДатаНачала" id="53197b64-56bb-425d-946c-60f788495f9f"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ПарольДоступаКЗакрытомуКлючу" id="6547aa33-a939-4fa5-a6b0-19a79a2b0ea8"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.Отпечаток" id="81e65978-5517-4e82-985f-0ca721135873"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ТипМодуляКриптографии" id="ab8ec4f7-888a-417e-bf9c-7705105aa726"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ИмяМодуляКриптографии" id="b0077d2e-90c1-4357-a0fa-2a88e3eea050"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ДатаОкончания" id="d92d596e-f3c8-4f8b-8e15-255e06a68022"/>
+			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ИННсубъекта" id="dd1e5e6b-0a76-4f87-b615-35134c807491"/>
+		</Metadata>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаПодключитьСертификат" id="eab24503-104e-4f22-8306-61686882f0c2" configVersion="c1e83d1ab065c34aaf7cd6d618f3214100000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаПодключитьСертификат.Form" id="eab24503-104e-4f22-8306-61686882f0c2.0" configVersion="318333146128484e9c9f1ce88604d25b00000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаСписка" id="6ff93121-755d-4f71-8ab0-72d7fe899c25" configVersion="ef42ff07c8537d48977377451d44eb0500000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаСписка.Form" id="6ff93121-755d-4f71-8ab0-72d7fe899c25.0" configVersion="ba26a73db687f74b9d6cbbdcfd00ef3100000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.ManagerModule" id="c9886b6e-9114-4718-956f-cb4d5317104b.3" configVersion="8a362c01fb9cf34c859f35e0e825806d00000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.ObjectModule" id="c9886b6e-9114-4718-956f-cb4d5317104b.0" configVersion="60807a4730e50f4e9e08678fc46d580700000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.Макет" id="acfad760-92fe-4bf2-9cbf-acd712c9709a" configVersion="d178c0f236c4f841a8e2813280fe4d5b00000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.Макет.Template" id="acfad760-92fe-4bf2-9cbf-acd712c9709a.0" configVersion="d6e8dbe1438db248898ef6f2407951de00000000"/>
+		<Metadata name="CommonTemplate.КомпонентаПечатиQRКода" id="fc48d5d6-7181-4a45-b4a5-0757d22adcce" configVersion="e207290f771d3a4bbe55405e941cf1a400000000"/>
+		<Metadata name="CommonTemplate.КомпонентаПечатиQRКода.Template" id="fc48d5d6-7181-4a45-b4a5-0757d22adcce.0" configVersion="352fab3a3e48964cb8ef95663bab527b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c2aed9a7-c7f8-44dd-9d00-1010b26226ef" configVersion="5c132fc522bff846a5a62ccea59baa8a00000000"/>
+		<Metadata name="HTTPService.ksapi" id="f2069fc1-922d-41b8-a0e8-31b5a681384c" configVersion="1a54b57ed85abc4683ce0131ff0ebe2400000000">
+			<Metadata name="HTTPService.ksapi.URLTemplate.GET" id="161a5af7-5034-460c-95a8-d1d5bd19105c"/>
+			<Metadata name="HTTPService.ksapi.URLTemplate.GET.Method.POST" id="3d9e2a5d-92e7-4628-8eee-d36183fcc712"/>
+			<Metadata name="HTTPService.ksapi.URLTemplate.GET.Method.GET" id="6e7a7e5a-4a0b-43a3-9d3d-edc3ba333924"/>
+		</Metadata>
+		<Metadata name="HTTPService.ksapi.Module" id="f2069fc1-922d-41b8-a0e8-31b5a681384c.0" configVersion="776603fa22712b44b2279b960f34124100000000"/>
+		<Metadata name="Language.Русский" id="ff71c6d2-1840-4866-9ccf-fdab3b7a5b5f" configVersion="377ab915471c604fba340d9a2ff1111b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
