@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования" id="c9886b6e-9114-4718-956f-cb4d5317104b" configVersion="ae382ee35d7cf74a914cb69c5a2ed98a00000000">
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования" id="c9886b6e-9114-4718-956f-cb4d5317104b" configVersion="4a9c9b6688f2684ebdd90ccdbfbce5a100000000">
 			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.Организация" id="0d693f75-1619-4711-8878-a8c4e9a32c3a"/>
 			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.СерийныйНомер" id="0f1fbbc0-c44c-4ef6-80ba-2c3cb3dfa8a7"/>
 			<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Attribute.ФИО" id="127b6400-a0a8-4dfb-a507-a5ab9b8a2624"/>
@@ -18,9 +18,9 @@
 		</Metadata>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаПодключитьСертификат" id="eab24503-104e-4f22-8306-61686882f0c2" configVersion="c1e83d1ab065c34aaf7cd6d618f3214100000000"/>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаПодключитьСертификат.Form" id="eab24503-104e-4f22-8306-61686882f0c2.0" configVersion="318333146128484e9c9f1ce88604d25b00000000"/>
-		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаСписка" id="6ff93121-755d-4f71-8ab0-72d7fe899c25" configVersion="ef42ff07c8537d48977377451d44eb0500000000"/>
-		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаСписка.Form" id="6ff93121-755d-4f71-8ab0-72d7fe899c25.0" configVersion="ba26a73db687f74b9d6cbbdcfd00ef3100000000"/>
-		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.ManagerModule" id="c9886b6e-9114-4718-956f-cb4d5317104b.3" configVersion="0c565f4915bcb34b82dcca1ca704c6a900000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаСписка" id="6ff93121-755d-4f71-8ab0-72d7fe899c25" configVersion="d720c3ac8a218c4c86ad42bf464a97f600000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Form.ФормаСписка.Form" id="6ff93121-755d-4f71-8ab0-72d7fe899c25.0" configVersion="713cdbb4274f4b4e84641105e6944fb300000000"/>
+		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.ManagerModule" id="c9886b6e-9114-4718-956f-cb4d5317104b.3" configVersion="74f4bc67ae13d24bbce8d61a44a7413000000000"/>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.ObjectModule" id="c9886b6e-9114-4718-956f-cb4d5317104b.0" configVersion="c6a36935249e5549925118a127607e8700000000"/>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.Макет" id="acfad760-92fe-4bf2-9cbf-acd712c9709a" configVersion="d178c0f236c4f841a8e2813280fe4d5b00000000"/>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.Макет.Template" id="acfad760-92fe-4bf2-9cbf-acd712c9709a.0" configVersion="d6e8dbe1438db248898ef6f2407951de00000000"/>

@@ -4,11 +4,24 @@
 		<Autofill>false</Autofill>
 	</AutoCommandBar>
 	<ChildItems>
-		<Button name="ДобавитьСертификаты" id="22">
-			<Type>UsualButton</Type>
-			<CommandName>Form.Command.ДобавитьСертификаты</CommandName>
-			<ExtendedTooltip name="ДобавитьСертификатыРасширеннаяПодсказка" id="23"/>
-		</Button>
+		<UsualGroup name="Группа1" id="26">
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="27"/>
+			<ChildItems>
+				<Button name="ДобавитьСертификаты" id="22">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.ДобавитьСертификаты</CommandName>
+					<ExtendedTooltip name="ДобавитьСертификатыРасширеннаяПодсказка" id="23"/>
+				</Button>
+				<Button name="ТестПодписи" id="24">
+					<Type>UsualButton</Type>
+					<CommandName>Form.Command.ТестПодписи</CommandName>
+					<ExtendedTooltip name="ТестПодписиРасширеннаяПодсказка" id="25"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
 		<UsualGroup name="СписокКомпоновщикНастроекПользовательскиеНастройки" id="1">
 			<Title>
 				<v8:item>
@@ -134,6 +147,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ДобавитьСертификаты</Action>
+		</Command>
+		<Command name="ТестПодписи" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест подписи</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест подписи</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ТестПодписи</Action>
 		</Command>
 	</Commands>
 </Form>
